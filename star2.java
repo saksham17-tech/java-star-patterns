@@ -5,7 +5,7 @@ public class star2
     public static void main(String[] sm)
 
     {
-        //hollow square
+        
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the size of your pattern: ");
         int n=sc.nextInt();
@@ -20,4 +20,5 @@ public class star2
         }
     }
 }
+
 
